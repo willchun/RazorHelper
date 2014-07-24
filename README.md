@@ -6,3 +6,9 @@ Razor-helper
 
 Razor统计项目的官方资料：http://dev.cobub.com/zh/downloads/
 
+
+
+**RazorHelper**
+## ** 准备任务 修改数据库**##
+>razor_product(应用列表)  增加字段 umeng_key(友盟key) 
+>razor_channel(渠道列表)  增加字段 channel_en(友盟的英文渠道名)
